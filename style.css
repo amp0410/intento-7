@@ -50,7 +50,10 @@ button {
 }
 
 p {
-  color: white;
+  color: #ff6c0e;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .grid {
